@@ -35,6 +35,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=B-key&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=B-key&icon=5&color=4)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=B-key&color=blue&style=flat-square)
 
 
