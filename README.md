@@ -35,6 +35,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=B-key&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![Profile Views](https://view-counter-beta.vercel.app/api/counter?username=B-KEY)
+![](https://view-counter-beta.vercel.app/api/counter?username=B-KEY&cache=1699306295)
 
 
