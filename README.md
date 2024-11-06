@@ -1,8 +1,21 @@
-## Hi there 👋
+
 
 # 💫 About Me:
 
-I am a cybersecurity student passionate about exploring the world of technology and security. My journey includes learning and working with various tools and technologies to enhance my skills and understanding in cybersecurity. I'm excited to grow, learn, and share my knowledge with others in the field!
+🔭 I’m currently working on:<br>
+ Tryhackme Rooms
+
+👯 I’m looking to participate on:<br>
+ CTF events or  Learning challenges
+
+🌱 I’m currently learning:<br>
+  CompTIA Security+
+
+💬 Ask me about:<br>
+ CyberSecurity & Digital-Forensic
+
+⚡ Fun fact:<br>
+  I’ve spent more time customizing my terminal than actually using it.
 
 
 ## 🌐 Socials:
